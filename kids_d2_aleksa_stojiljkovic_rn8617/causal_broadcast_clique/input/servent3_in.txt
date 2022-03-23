@@ -1,0 +1,3 @@
+info
+pause 31000
+stop

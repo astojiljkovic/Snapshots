@@ -1,0 +1,2 @@
+00:33:15 - Couldn't send message: [4|9|4|TRANSACTION|2]
+00:33:18 - Couldn't send message: [1|14|7|TRANSACTION|2]

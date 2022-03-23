@@ -1,0 +1,4 @@
+info
+causal_broadcast
+pause 40000
+stop
